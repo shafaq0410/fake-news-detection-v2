@@ -1,31 +1,35 @@
+# 📰 Fake News Detection V2  
 
-Fake News Detector - Project scaffolding
-=======================================
-This bundle contains:
-- backend/: Flask backend that serves /predict and a training script
-- flutter_app/: Minimal Flutter frontend (lib/main.dart)
+🚀 AI-powered Fake News Detection system that identifies and verifies claims in real time using NLP + Machine Learning.  
+No more falling for clickbait — this tool’s got your back. 💪  
 
-Quickstart (Backend):
-1. Create a virtual env, install deps:
-   python -m venv venv
-   source venv/bin/activate
-   pip install -r requirements.txt
+---
 
-2. Train model and save artifacts (this downloads the dataset and trains an LSTM):
-   python train_and_save.py
-   -- this creates ./model/tokenizer.joblib and ./model/fake_news_lstm.h5
+## ✨ Features  
+- 🔍 Detects **fake / misleading** news instantly  
+- 🧠 Uses **NLP & ML models** for accuracy  
+- 🌐 Integrated with **fact-checking APIs**  
+- 📊 Simple, clean, and interactive frontend  
 
-3. Run the server:
-   python app.py
-   # or use gunicorn in production
+---
 
-4. For Android emulator, use backend URL http://10.0.2.2:5000/predict
-   For real devices, expose backend with ngrok or deploy backend to Render/Railway.
+## 🖼️ Screenshots  
+| Home Page | Prediction Result | API in Action |
+|-----------|------------------|---------------|
+| ![Home](<img width="609" height="758" alt="Screenshot 2025-08-15 023901" src="https://github.com/user-attachments/assets/4f09ce58-adc2-4fea-a7f4-3f78b7987c38" />
+) | ![Result](<img width="585" height="497" alt="Screenshot 2025-08-15 023910" src="https://github.com/user-attachments/assets/cbebea28-77b0-465a-9a9b-9685c8a581a0" />
+) | ![Result](<img width="581" height="478" alt="Screenshot 2025-08-15 024055" src="https://github.com/user-attachments/assets/c3a61fd4-6e55-4722-a77a-b38324c39b14" />
+) |
 
-Quickstart (Flutter):
-1. Put flutter_app/ into your Flutter project and replace lib/main.dart with the file.
-2. Run on Android emulator: flutter run
+---
 
-Notes:
-- The training step may take time and requires TensorFlow. Use GPU if available.
-- You can skip training if you already have model artifacts from your notebook; place tokenizer.joblib and fake_news_lstm.h5 in backend/model/.
+## ⚡ How to Run Locally  
+
+# 1️⃣ Clone this repo
+git clone https://github.com/shafaq0410/fake-news-detection-v2.git
+
+# 2️⃣ Install dependencies
+pip install -r requirements.txt
+
+# 3️⃣ Run the app
+python app.py
