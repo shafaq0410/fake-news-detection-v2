@@ -16,10 +16,10 @@ No more falling for clickbait — this tool’s got your back. 💪
 ## 🖼️ Screenshots  
 | Home Page | Prediction Result | API in Action |
 |-----------|------------------|---------------|
-| ![Home](<img width="609" height="758" alt="Screenshot 2025-08-15 023901" src="https://github.com/user-attachments/assets/4f09ce58-adc2-4fea-a7f4-3f78b7987c38" />
-) | ![Result](<img width="585" height="497" alt="Screenshot 2025-08-15 023910" src="https://github.com/user-attachments/assets/cbebea28-77b0-465a-9a9b-9685c8a581a0" />
-) | ![Result](<img width="581" height="478" alt="Screenshot 2025-08-15 024055" src="https://github.com/user-attachments/assets/c3a61fd4-6e55-4722-a77a-b38324c39b14" />
-) |
+| ![Home]<img width="609" height="758" alt="Screenshot 2025-08-15 023901" src="https://github.com/user-attachments/assets/4f09ce58-adc2-4fea-a7f4-3f78b7987c38" />
+ | ![Result]<img width="585" height="497" alt="Screenshot 2025-08-15 023910" src="https://github.com/user-attachments/assets/cbebea28-77b0-465a-9a9b-9685c8a581a0" />
+ | ![Result]<img width="581" height="478" alt="Screenshot 2025-08-15 024055" src="https://github.com/user-attachments/assets/c3a61fd4-6e55-4722-a77a-b38324c39b14" />
+ |
 
 ---
 
