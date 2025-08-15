@@ -33,3 +33,11 @@ pip install -r requirements.txt
 
 # 3️⃣ Run the app
 python app.py
+
+
+# 🤝 Contributing
+Got ideas? Fork it, branch it, PR it. Let’s make fake news a thing of the past. 🚫📰
+
+
+# 📜 License
+MIT License – Free to use & modify.
